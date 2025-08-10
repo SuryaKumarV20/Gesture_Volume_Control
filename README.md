@@ -1,4 +1,4 @@
-<img width="810" height="634" alt="Screenshot 2025-08-10 101715" src="https://github.com/user-attachments/assets/958aa232-a85f-497b-9576-b6592e1b4b98" /># Gesture_Volume_Control
+# Gesture_Volume_Control
 # 🎛️ Gesture-Based Volume Control
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
