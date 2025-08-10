@@ -1,4 +1,4 @@
-# Gesture_Volume_Control
+<img width="810" height="634" alt="Screenshot 2025-08-10 101715" src="https://github.com/user-attachments/assets/958aa232-a85f-497b-9576-b6592e1b4b98" /># Gesture_Volume_Control
 # 🎛️ Gesture-Based Volume Control
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
@@ -52,5 +52,9 @@ This distance is mapped to your system's volume range using pycaw.
 Move fingers apart to increase volume, bring them closer to decrease it.
 
 📸 Screenshot:
-<img width="798" height="626" alt="Screenshot 2025-08-10 095936" src="https://github.com/user-attachments/assets/5923fe4c-5dfb-4c73-8527-3286ca4d8b4d" />
+<img width="810" height="634" alt="Screenshot 2025-08-10 101715" src="https://github.com/user-attachments/assets/cffcf453-dd9a-4f43-9fd9-d347af4c89e6" />
+
+
+
+
 
